@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d0c1cc00-6478-4ede-a256-009bf1590d24" name="Changes" comment="Python_Course20">
-      <change afterPath="$PROJECT_DIR$/ShararehVahidi/RPS_game.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ShararehVahidi/sample_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ShararehVahidi/words_counting.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ShararehVahidi/working _with_csv.py" afterDir="false" />
+    <list default="true" id="d0c1cc00-6478-4ede-a256-009bf1590d24" name="Changes" comment="Add solvers till week 5">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,9 +28,13 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
+  &quot;history&quot;: [
+    {
+      &quot;state&quot;: &quot;OPEN&quot;
+    }
+  ],
   &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;FarzadSorouri&quot;
+    &quot;state&quot;: &quot;OPEN&quot;
   }
 }</component>
   <component name="GithubPullRequestsUISettings">{
@@ -52,36 +52,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Python.AlphabitRange.executor": "Run",
-    "Python.FBI.executor": "Run",
-    "Python.Factorial.executor": "Run",
-    "Python.FloatRange.executor": "Run",
-    "Python.Sudoku.executor": "Run",
-    "Python.Timer.executor": "Run",
-    "Python.Train1.executor": "Run",
-    "Python.stone_paper_scissors.executor": "Run",
-    "Python.test.executor": "Run",
-    "Python.test2.executor": "Run",
-    "Python.test3.executor": "Run",
-    "Python.words_counting.executor": "Run",
-    "Python.working _with_csv.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/Sharareh/PycharmProjects/Python_Programming/ShararehVahidi",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Python.AlphabitRange.executor&quot;: &quot;Run&quot;,
+    &quot;Python.FBI.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Factorial.executor&quot;: &quot;Run&quot;,
+    &quot;Python.FloatRange.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Sudoku.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Timer.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Train1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.stone_paper_scissors.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.words_counting.executor&quot;: &quot;Run&quot;,
+    &quot;Python.working _with_csv.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Sharareh/PycharmProjects/Python_Programming/ShararehVahidi&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Sharareh\PycharmProjects\Python_Programming\ShararehVahidi" />
@@ -93,8 +93,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-PY-243.21565.199" />
-        <option value="bundled-python-sdk-cab1f2013843-4ae2d6a61b08-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.21565.199" />
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-PY-243.22562.220" />
+        <option value="bundled-python-sdk-0fc6c617c4bd-9a18a617cbe4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.22562.220" />
       </set>
     </attachedChunks>
   </component>
@@ -119,7 +119,11 @@
       <workItem from="1732099961989" duration="1369000" />
       <workItem from="1736016675968" duration="39000" />
       <workItem from="1736016793005" duration="1615000" />
-      <workItem from="1736018772101" duration="1653000" />
+      <workItem from="1736018772101" duration="3027000" />
+      <workItem from="1736080961503" duration="2017000" />
+      <workItem from="1736110117942" duration="17000" />
+      <workItem from="1736265221665" duration="1368000" />
+      <workItem from="1736268143742" duration="650000" />
     </task>
     <task id="LOCAL-00001" summary="Python_Course20">
       <option name="closed" value="true" />
@@ -129,7 +133,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731844890470</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add solvers till week 5">
+      <option name="closed" value="true" />
+      <created>1736020624995</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1736020624995</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -148,7 +160,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Python_Course20" />
-    <option name="LAST_COMMIT_MESSAGE" value="Python_Course20" />
+    <MESSAGE value="Add solvers till week 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add solvers till week 5" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
